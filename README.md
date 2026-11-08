@@ -6,7 +6,7 @@ This repository intentionally contains release binaries and update metadata only
 
 ## Download
 
-Open the latest release and download `Agent Notch Setup <version>.exe`. Existing 0.17.1 installations cannot update themselves; install 0.17.2 or newer once manually. Later releases update from inside the app.
+Open the latest release and download `Agent-Notch-Setup-<version>.exe`. Existing 0.17.1 installations cannot update themselves; install 0.17.9 or newer once manually. Later releases update from inside the app.
 
 Verify the download against `SHA256SUMS.txt` and the `sha512` value in `latest.yml`.
 
